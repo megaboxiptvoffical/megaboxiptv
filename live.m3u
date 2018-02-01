@@ -278,4 +278,6 @@ http://p4.giffy.be:8080/live/toby1/toby1/21460.ts
 http://p4.giffy.be:8080/live/toby1/toby1/29026.ts
 #EXTINF:-1,US | CBSN NEWS
 http://p4.giffy.be:8080/live/toby1/toby1/27539.ts
-#EXTINF:-1,US | BLOOMBERG
+#EXTINF:-1,test | test
+http://p4.giffy.be:8080/live/toby1/toby1/30492.ts
+
